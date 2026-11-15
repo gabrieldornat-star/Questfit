@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "description": "FITQUEST — transforme tes petits défis en aventure personnalisée.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "quest-fit-lemon.vercel",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "quest-fit-lemon.vercel",
+  "start_url": "/",
+  "theme_color": "#11111b"
+}
